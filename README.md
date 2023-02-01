@@ -91,7 +91,7 @@
 </samp>
 
 <!-- Pinned Repositories -->
-#### Pinned
+<!-- #### Pinned -->
 
 <!-- <p align="center">
 <a href="https://github.com/devxyzr/Proyect_countries">
