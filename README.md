@@ -60,12 +60,14 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxyr&layout=compact"
-        media="(prefers-color-scheme: dark)"/>
+        <img alt="Ricardo Cuartas"
+                src="https://github-readme-stats.vercel.app/api?username=devxyzr&show_icons=true&theme=radical" />
+        <br>  
+<!--         <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxyzr&layout=compact"
+        media="(prefers-color-scheme: dark)"/> -->
         <br>
+            
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
