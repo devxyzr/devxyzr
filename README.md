@@ -60,35 +60,22 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Ricardo Cuartas"
+        <img alt="Shahriar Shafin's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=devxyzr&show_icons=true&theme=radical" />
-        <br>  
-<!--         <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxyzr&layout=compact"
-        media="(prefers-color-scheme: dark)"/> -->
         <br>
-            
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
-        <a href="mailto:shafinshahriar340@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Facebook -->
-        <a href="https://www.facebook.com/shhriar.shafin" target="_blank"><img alt="Facebook"
-                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
-        </a>
-        <!-- Instagram -->
-        <a href="https://www.instagram.com/shhriar_shafin/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+        <a href="mailto:develop.xyzr@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"                                                      
         </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/devxyzr/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
         <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        <a href="https://twitter.com/home" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/twitter/follow/devxyzr?style=social">
         </a>
     </p>
 </details>
@@ -106,22 +93,14 @@
 <!-- Pinned Repositories -->
 #### Pinned
 
-<p align="center">
-<a href="https://github.com/shahriarshafin/shahriarshafin">
+<!-- <p align="center">
+<a href="https://github.com/devxyzr/Proyect_countries">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
+</a> -->
+<!-- <span>&nbsp;</span>
 <a href="https://github.com/shahriarshafin/disney-plus-clone">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
+</a> -->
 </p>
-
-<p align="center">
-<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
+   
+                
